@@ -29,9 +29,13 @@ Contributing
 Contributions to the Inspirational Advice Generator are welcome! If you have suggestions for improvements or new features, feel free to fork the repository and submit a pull request.
 
 Fork the Project
+
 Create your Feature Branch (git checkout -b feature/AmazingFeature)
+
 Commit your Changes (git commit -m 'Add some AmazingFeature')
+
 Push to the Branch (git push origin feature/AmazingFeature)
+
 Open a Pull Request
 
 License
